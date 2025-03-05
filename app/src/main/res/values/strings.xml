@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenAPI2</string>
+    <string name="visita_nuestro_cat_logo">VISITA NUESTRO CATÁLOGO</string>
+    <string name="zalando">ZALANDO</string>
+    <string name="catalogo_de_ropa">Catalogo de ropa</string>
+    <string name="bot_n_para_ir_al_cat_logo">Botón para ir al catálogo</string>
+    <string name="t_tulo_de_la_tienda">Título de la tienda</string>
+</resources>
